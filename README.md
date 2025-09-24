@@ -1,17 +1,16 @@
 # Employee Management System
-
-A Java console application for managing employee records with full CRUD operations and salary calculations.
+Java console app for managing employee records.
 
 ## Features
-- Add, view, update, delete employee records
-- Salary calculations and department filtering
-- Search functionality and file persistence
-- OOP principles implementation
+- Add Manager/Developer employees
+- List all employees  
+- Find highest salary employee
+- OOP implementation
 
-## Technologies Used
-- Java, Eclipse, OOP Concepts
+## Technologies
+Java, Eclipse, OOP
 
 ## How to Run
-1. Clone this repository
-2. Open in Eclipse IDE
-3. Run Main.java file
+1. Clone repo
+2. Open in Eclipse
+3. Run Main.java
